@@ -89,3 +89,9 @@ After launching the application, open your web browser to the indicated address 
 * **AI Model Selection**: Choose from supported AI models (OpenAI GPT, Google Gemini) based on your requirements and budget.
 * **Token Management**: The application automatically trims large web pages to fit within the AI model's token limits, ensuring efficient processing.
 * **Cost Calculation**: The app calculates the cost of using the AI model based on the number of tokens processed, helping you manage your AI usage budget.
+
+
+
+
+### video demo 
+(https://drive.google.com/file/d/1BaCt1mAFDv5hqrq5Sb4HUHhlXuRzof4E/view?usp=drive_link)  
