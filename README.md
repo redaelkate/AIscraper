@@ -54,7 +54,7 @@ After launching the application, open your web browser to the indicated address 
 ### How AI is Used
 
 1. **Data Extraction**:
-   * The application uses AI models (e.g., OpenAI GPT, Google Gemini, or Llama) to extract structured data from web pages.
+   * The application uses AI models (e.g., OpenAI GPT, Google Gemini) to extract structured data from web pages.
    * You can specify the fields you want to extract (e.g., `name`, `price`, `description`), and the AI will automatically identify and extract these fields from the webpage content.
 
 2. **Dynamic Schema Generation**:
