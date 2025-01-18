@@ -1,0 +1,40 @@
+{
+    "listings": [
+        {
+            "price": "$638.99",
+            "productname": "ASUS The SFF-Ready Prime GeForce RTX 4070 Super OC Edition 12GB GDDR6X Graphics Card (PCIe\u00ae 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort\u2122 1.4a)"
+        },
+        {
+            "price": "$83.99",
+            "productname": "maxsun AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming Video Graphics Card GPU 128-Bit DirectX 12 PCI Express X16 3.0 DVI-D Dual Link, HDMI, DisplayPort"
+        },
+        {
+            "price": "$309.99",
+            "productname": "GIGABYTE GeForce RTX 4060 Gaming OC 8G Graphics Card, 3X WINDFORCE Fans, 8GB 128-bit GDDR6, GV-N4060GAMING OC-8GD Video Card"
+        },
+        {
+            "price": "$294.99",
+            "productname": "GIGABYTE GeForce RTX 3060 Gaming OC 12G (REV2.0) Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6, GV-N3060GAMING OC-12GD Video Card"
+        },
+        {
+            "price": "$318.70",
+            "productname": "MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Torx Twin Fan Ampere OC Graphics Card"
+        },
+        {
+            "price": "$638.99",
+            "productname": "ASUS The SFF-Ready Prime GeForce RTX 4070 Super OC Edition 12GB GDDR6X Graphics Card (PCIe\u00ae 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort\u2122 1.4a)"
+        },
+        {
+            "price": "$304.97",
+            "productname": "ASUS Dual GeForce RTX\u2122 4060 EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, 0dB Technology, Dual BIOS, Auto-Extreme Technology, and More)"
+        },
+        {
+            "price": "$339.15",
+            "productname": "XFX Speedster QICK319 Radeon RX 6750XT CORE Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-675XYJFDP"
+        },
+        {
+            "price": "$429.99",
+            "productname": "Sapphire 11323-02-20G Pulse AMD Radeon RX 7900 XT Gaming Graphics Card with 20GB GDDR6, AMD RDNA 3"
+        }
+    ]
+}

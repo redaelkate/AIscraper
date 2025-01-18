@@ -1,0 +1,904 @@
+{
+    "listings": [
+        {
+            "name": "Bulbasaur",
+            "type": "Grass, Poison",
+            "total": "318"
+        },
+        {
+            "name": "Ivysaur",
+            "type": "Grass, Poison",
+            "total": "405"
+        },
+        {
+            "name": "Venusaur",
+            "type": "Grass, Poison",
+            "total": "525"
+        },
+        {
+            "name": "Mega Venusaur",
+            "type": "Grass, Poison",
+            "total": "625"
+        },
+        {
+            "name": "Charmander",
+            "type": "Fire",
+            "total": "309"
+        },
+        {
+            "name": "Charmeleon",
+            "type": "Fire",
+            "total": "405"
+        },
+        {
+            "name": "Charizard",
+            "type": "Fire, Flying",
+            "total": "534"
+        },
+        {
+            "name": "Mega Charizard X",
+            "type": "Fire, Dragon",
+            "total": "634"
+        },
+        {
+            "name": "Mega Charizard Y",
+            "type": "Fire, Flying",
+            "total": "634"
+        },
+        {
+            "name": "Squirtle",
+            "type": "Water",
+            "total": "314"
+        },
+        {
+            "name": "Wartortle",
+            "type": "Water",
+            "total": "405"
+        },
+        {
+            "name": "Blastoise",
+            "type": "Water",
+            "total": "530"
+        },
+        {
+            "name": "Mega Blastoise",
+            "type": "Water",
+            "total": "630"
+        },
+        {
+            "name": "Caterpie",
+            "type": "Bug",
+            "total": "195"
+        },
+        {
+            "name": "Metapod",
+            "type": "Bug",
+            "total": "205"
+        },
+        {
+            "name": "Butterfree",
+            "type": "Bug, Flying",
+            "total": "395"
+        },
+        {
+            "name": "Weedle",
+            "type": "Bug, Poison",
+            "total": "195"
+        },
+        {
+            "name": "Kakuna",
+            "type": "Bug, Poison",
+            "total": "205"
+        },
+        {
+            "name": "Beedrill",
+            "type": "Bug, Poison",
+            "total": "395"
+        },
+        {
+            "name": "Mega Beedrill",
+            "type": "Bug, Poison",
+            "total": "495"
+        },
+        {
+            "name": "Pidgey",
+            "type": "Normal, Flying",
+            "total": "251"
+        },
+        {
+            "name": "Pidgeotto",
+            "type": "Normal, Flying",
+            "total": "349"
+        },
+        {
+            "name": "Pidgeot",
+            "type": "Normal, Flying",
+            "total": "479"
+        },
+        {
+            "name": "Mega Pidgeot",
+            "type": "Normal, Flying",
+            "total": "579"
+        },
+        {
+            "name": "Rattata",
+            "type": "Normal",
+            "total": "253"
+        },
+        {
+            "name": "Alolan Rattata",
+            "type": "Dark, Normal",
+            "total": "253"
+        },
+        {
+            "name": "Raticate",
+            "type": "Normal",
+            "total": "413"
+        },
+        {
+            "name": "Alolan Raticate",
+            "type": "Dark, Normal",
+            "total": "413"
+        },
+        {
+            "name": "Spearow",
+            "type": "Normal, Flying",
+            "total": "262"
+        },
+        {
+            "name": "Fearow",
+            "type": "Normal, Flying",
+            "total": "442"
+        },
+        {
+            "name": "Ekans",
+            "type": "Poison",
+            "total": "288"
+        },
+        {
+            "name": "Arbok",
+            "type": "Poison",
+            "total": "448"
+        },
+        {
+            "name": "Pikachu",
+            "type": "Electric",
+            "total": "320"
+        },
+        {
+            "name": "Pikachu (Partner Pikachu)",
+            "type": "Electric",
+            "total": "430"
+        },
+        {
+            "name": "Raichu",
+            "type": "Electric",
+            "total": "485"
+        },
+        {
+            "name": "Alolan Raichu",
+            "type": "Electric, Psychic",
+            "total": "485"
+        },
+        {
+            "name": "Sandshrew",
+            "type": "Ground",
+            "total": "300"
+        },
+        {
+            "name": "Alolan Sandshrew",
+            "type": "Ice, Steel",
+            "total": "300"
+        },
+        {
+            "name": "Sandslash",
+            "type": "Ground",
+            "total": "450"
+        },
+        {
+            "name": "Alolan Sandslash",
+            "type": "Ice, Steel",
+            "total": "450"
+        },
+        {
+            "name": "Nidoran\u2640",
+            "type": "Poison",
+            "total": "275"
+        },
+        {
+            "name": "Nidorina",
+            "type": "Poison",
+            "total": "365"
+        },
+        {
+            "name": "Nidoqueen",
+            "type": "Poison, Ground",
+            "total": "505"
+        },
+        {
+            "name": "Nidoran\u2642",
+            "type": "Poison",
+            "total": "273"
+        },
+        {
+            "name": "Nidorino",
+            "type": "Poison",
+            "total": "365"
+        },
+        {
+            "name": "Nidoking",
+            "type": "Poison, Ground",
+            "total": "505"
+        },
+        {
+            "name": "Clefairy",
+            "type": "Fairy",
+            "total": "323"
+        },
+        {
+            "name": "Clefable",
+            "type": "Fairy",
+            "total": "483"
+        },
+        {
+            "name": "Vulpix",
+            "type": "Fire",
+            "total": "299"
+        },
+        {
+            "name": "Alolan Vulpix",
+            "type": "Ice",
+            "total": "299"
+        },
+        {
+            "name": "Ninetales",
+            "type": "Fire",
+            "total": "505"
+        },
+        {
+            "name": "Alolan Ninetales",
+            "type": "Ice, Fairy",
+            "total": "505"
+        },
+        {
+            "name": "Jigglypuff",
+            "type": "Normal, Fairy",
+            "total": "270"
+        },
+        {
+            "name": "Wigglytuff",
+            "type": "Normal, Fairy",
+            "total": "435"
+        },
+        {
+            "name": "Zubat",
+            "type": "Poison, Flying",
+            "total": "245"
+        },
+        {
+            "name": "Golbat",
+            "type": "Poison, Flying",
+            "total": "455"
+        },
+        {
+            "name": "Oddish",
+            "type": "Grass, Poison",
+            "total": "320"
+        },
+        {
+            "name": "Gloom",
+            "type": "Grass, Poison",
+            "total": "395"
+        },
+        {
+            "name": "Vileplume",
+            "type": "Grass, Poison",
+            "total": "490"
+        },
+        {
+            "name": "Paras",
+            "type": "Bug, Grass",
+            "total": "285"
+        },
+        {
+            "name": "Parasect",
+            "type": "Bug, Grass",
+            "total": "405"
+        },
+        {
+            "name": "Venonat",
+            "type": "Bug, Poison",
+            "total": "305"
+        },
+        {
+            "name": "Venomoth",
+            "type": "Bug, Poison",
+            "total": "450"
+        },
+        {
+            "name": "Diglett",
+            "type": "Ground",
+            "total": "265"
+        },
+        {
+            "name": "Alolan Diglett",
+            "type": "Ground, Steel",
+            "total": "265"
+        },
+        {
+            "name": "Dugtrio",
+            "type": "Ground",
+            "total": "425"
+        },
+        {
+            "name": "Alolan Dugtrio",
+            "type": "Ground, Steel",
+            "total": "425"
+        },
+        {
+            "name": "Meowth",
+            "type": "Normal",
+            "total": "290"
+        },
+        {
+            "name": "Alolan Meowth",
+            "type": "Dark, Normal",
+            "total": "290"
+        },
+        {
+            "name": "Galarian Meowth",
+            "type": "Steel",
+            "total": "290"
+        },
+        {
+            "name": "Persian",
+            "type": "Normal",
+            "total": "440"
+        },
+        {
+            "name": "Alolan Persian",
+            "type": "Dark, Normal",
+            "total": "440"
+        },
+        {
+            "name": "Psyduck",
+            "type": "Water",
+            "total": "320"
+        },
+        {
+            "name": "Golduck",
+            "type": "Water",
+            "total": "500"
+        },
+        {
+            "name": "Mankey",
+            "type": "Fighting",
+            "total": "305"
+        },
+        {
+            "name": "Primeape",
+            "type": "Fighting",
+            "total": "455"
+        },
+        {
+            "name": "Growlithe",
+            "type": "Fire",
+            "total": "350"
+        },
+        {
+            "name": "Hisuian Growlithe",
+            "type": "Fire, Rock",
+            "total": "350"
+        },
+        {
+            "name": "Arcanine",
+            "type": "Fire",
+            "total": "555"
+        },
+        {
+            "name": "Hisuian Arcanine",
+            "type": "Fire, Rock",
+            "total": "555"
+        },
+        {
+            "name": "Poliwag",
+            "type": "Water",
+            "total": "300"
+        },
+        {
+            "name": "Poliwhirl",
+            "type": "Water",
+            "total": "385"
+        },
+        {
+            "name": "Poliwrath",
+            "type": "Water, Fighting",
+            "total": "510"
+        },
+        {
+            "name": "Abra",
+            "type": "Psychic",
+            "total": "310"
+        },
+        {
+            "name": "Kadabra",
+            "type": "Psychic",
+            "total": "400"
+        },
+        {
+            "name": "Alakazam",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Mega Alakazam",
+            "type": "Psychic",
+            "total": "600"
+        },
+        {
+            "name": "Machop",
+            "type": "Fighting",
+            "total": "305"
+        },
+        {
+            "name": "Machoke",
+            "type": "Fighting",
+            "total": "405"
+        },
+        {
+            "name": "Machamp",
+            "type": "Fighting",
+            "total": "505"
+        },
+        {
+            "name": "Bellsprout",
+            "type": "Grass, Poison",
+            "total": "300"
+        },
+        {
+            "name": "Weepinbell",
+            "type": "Grass, Poison",
+            "total": "390"
+        },
+        {
+            "name": "Victreebel",
+            "type": "Grass, Poison",
+            "total": "490"
+        },
+        {
+            "name": "Tentacool",
+            "type": "Water, Poison",
+            "total": "335"
+        },
+        {
+            "name": "Tentacruel",
+            "type": "Water, Poison",
+            "total": "515"
+        },
+        {
+            "name": "Geodude",
+            "type": "Rock, Ground",
+            "total": "300"
+        },
+        {
+            "name": "Alolan Geodude",
+            "type": "Rock, Electric",
+            "total": "300"
+        },
+        {
+            "name": "Graveler",
+            "type": "Rock, Ground",
+            "total": "390"
+        },
+        {
+            "name": "Alolan Graveler",
+            "type": "Rock, Electric",
+            "total": "390"
+        },
+        {
+            "name": "Golem",
+            "type": "Rock, Ground",
+            "total": "495"
+        },
+        {
+            "name": "Alolan Golem",
+            "type": "Rock, Electric",
+            "total": "495"
+        },
+        {
+            "name": "Ponyta",
+            "type": "Fire",
+            "total": "410"
+        },
+        {
+            "name": "Galarian Ponyta",
+            "type": "Psychic",
+            "total": "410"
+        },
+        {
+            "name": "Rapidash",
+            "type": "Fire",
+            "total": "500"
+        },
+        {
+            "name": "Galarian Rapidash",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Poliwag",
+            "type": "Water",
+            "total": "300"
+        },
+        {
+            "name": "Poliwhirl",
+            "type": "Water",
+            "total": "385"
+        },
+        {
+            "name": "Poliwrath",
+            "type": "Water, Fighting",
+            "total": "510"
+        },
+        {
+            "name": "Abra",
+            "type": "Psychic",
+            "total": "310"
+        },
+        {
+            "name": "Kadabra",
+            "type": "Psychic",
+            "total": "400"
+        },
+        {
+            "name": "Alakazam",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Mega Alakazam",
+            "type": "Psychic",
+            "total": "600"
+        },
+        {
+            "name": "Machop",
+            "type": "Fighting",
+            "total": "305"
+        },
+        {
+            "name": "Machoke",
+            "type": "Fighting",
+            "total": "405"
+        },
+        {
+            "name": "Machamp",
+            "type": "Fighting",
+            "total": "505"
+        },
+        {
+            "name": "Bellsprout",
+            "type": "Grass, Poison",
+            "total": "300"
+        },
+        {
+            "name": "Weepinbell",
+            "type": "Grass, Poison",
+            "total": "390"
+        },
+        {
+            "name": "Victreebel",
+            "type": "Grass, Poison",
+            "total": "490"
+        },
+        {
+            "name": "Tentacool",
+            "type": "Water, Poison",
+            "total": "335"
+        },
+        {
+            "name": "Tentacruel",
+            "type": "Water, Poison",
+            "total": "515"
+        },
+        {
+            "name": "Geodude",
+            "type": "Rock, Ground",
+            "total": "300"
+        },
+        {
+            "name": "Alolan Geodude",
+            "type": "Rock, Electric",
+            "total": "300"
+        },
+        {
+            "name": "Graveler",
+            "type": "Rock, Ground",
+            "total": "390"
+        },
+        {
+            "name": "Alolan Graveler",
+            "type": "Rock, Electric",
+            "total": "390"
+        },
+        {
+            "name": "Golem",
+            "type": "Rock, Ground",
+            "total": "495"
+        },
+        {
+            "name": "Alolan Golem",
+            "type": "Rock, Electric",
+            "total": "495"
+        },
+        {
+            "name": "Ponyta",
+            "type": "Fire",
+            "total": "410"
+        },
+        {
+            "name": "Galarian Ponyta",
+            "type": "Psychic",
+            "total": "410"
+        },
+        {
+            "name": "Rapidash",
+            "type": "Fire",
+            "total": "500"
+        },
+        {
+            "name": "Galarian Rapidash",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Poliwag",
+            "type": "Water",
+            "total": "300"
+        },
+        {
+            "name": "Poliwhirl",
+            "type": "Water",
+            "total": "385"
+        },
+        {
+            "name": "Poliwrath",
+            "type": "Water, Fighting",
+            "total": "510"
+        },
+        {
+            "name": "Abra",
+            "type": "Psychic",
+            "total": "310"
+        },
+        {
+            "name": "Kadabra",
+            "type": "Psychic",
+            "total": "400"
+        },
+        {
+            "name": "Alakazam",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Mega Alakazam",
+            "type": "Psychic",
+            "total": "600"
+        },
+        {
+            "name": "Machop",
+            "type": "Fighting",
+            "total": "305"
+        },
+        {
+            "name": "Machoke",
+            "type": "Fighting",
+            "total": "405"
+        },
+        {
+            "name": "Machamp",
+            "type": "Fighting",
+            "total": "505"
+        },
+        {
+            "name": "Bellsprout",
+            "type": "Grass, Poison",
+            "total": "300"
+        },
+        {
+            "name": "Weepinbell",
+            "type": "Grass, Poison",
+            "total": "390"
+        },
+        {
+            "name": "Victreebel",
+            "type": "Grass, Poison",
+            "total": "490"
+        },
+        {
+            "name": "Tentacool",
+            "type": "Water, Poison",
+            "total": "335"
+        },
+        {
+            "name": "Tentacruel",
+            "type": "Water, Poison",
+            "total": "515"
+        },
+        {
+            "name": "Geodude",
+            "type": "Rock, Ground",
+            "total": "300"
+        },
+        {
+            "name": "Alolan Geodude",
+            "type": "Rock, Electric",
+            "total": "300"
+        },
+        {
+            "name": "Graveler",
+            "type": "Rock, Ground",
+            "total": "390"
+        },
+        {
+            "name": "Alolan Graveler",
+            "type": "Rock, Electric",
+            "total": "390"
+        },
+        {
+            "name": "Golem",
+            "type": "Rock, Ground",
+            "total": "495"
+        },
+        {
+            "name": "Alolan Golem",
+            "type": "Rock, Electric",
+            "total": "495"
+        },
+        {
+            "name": "Ponyta",
+            "type": "Fire",
+            "total": "410"
+        },
+        {
+            "name": "Galarian Ponyta",
+            "type": "Psychic",
+            "total": "410"
+        },
+        {
+            "name": "Rapidash",
+            "type": "Fire",
+            "total": "500"
+        },
+        {
+            "name": "Galarian Rapidash",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Poliwag",
+            "type": "Water",
+            "total": "300"
+        },
+        {
+            "name": "Poliwhirl",
+            "type": "Water",
+            "total": "385"
+        },
+        {
+            "name": "Poliwrath",
+            "type": "Water, Fighting",
+            "total": "510"
+        },
+        {
+            "name": "Abra",
+            "type": "Psychic",
+            "total": "310"
+        },
+        {
+            "name": "Kadabra",
+            "type": "Psychic",
+            "total": "400"
+        },
+        {
+            "name": "Alakazam",
+            "type": "Psychic",
+            "total": "500"
+        },
+        {
+            "name": "Mega Alakazam",
+            "type": "Psychic",
+            "total": "600"
+        },
+        {
+            "name": "Machop",
+            "type": "Fighting",
+            "total": "305"
+        },
+        {
+            "name": "Machoke",
+            "type": "Fighting",
+            "total": "405"
+        },
+        {
+            "name": "Machamp",
+            "type": "Fighting",
+            "total": "505"
+        },
+        {
+            "name": "Bellsprout",
+            "type": "Grass, Poison",
+            "total": "300"
+        },
+        {
+            "name": "Weepinbell",
+            "type": "Grass, Poison",
+            "total": "390"
+        },
+        {
+            "name": "Victreebel",
+            "type": "Grass, Poison",
+            "total": "490"
+        },
+        {
+            "name": "Tentacool",
+            "type": "Water, Poison",
+            "total": "335"
+        },
+        {
+            "name": "Tentacruel",
+            "type": "Water, Poison",
+            "total": "515"
+        },
+        {
+            "name": "Geodude",
+            "type": "Rock, Ground",
+            "total": "300"
+        },
+        {
+            "name": "Alolan Geodude",
+            "type": "Rock, Electric",
+            "total": "300"
+        },
+        {
+            "name": "Graveler",
+            "type": "Rock, Ground",
+            "total": "390"
+        },
+        {
+            "name": "Alolan Graveler",
+            "type": "Rock, Electric",
+            "total": "390"
+        },
+        {
+            "name": "Golem",
+            "type": "Rock, Ground",
+            "total": "495"
+        },
+        {
+            "name": "Alolan Golem",
+            "type": "Rock, Electric",
+            "total": "495"
+        },
+        {
+            "name": "Ponyta",
+            "type": "Fire",
+            "total": "410"
+        },
+        {
+            "name": "Galarian Ponyta",
+            "type": "Psychic",
+            "total": "410"
+        },
+        {
+            "name": "Rapidash",
+            "type": "Fire",
+            "total": "500"
+        },
+        {
+            "name": "Galarian Rapidash",
+            "type": "Psychic",
+            "total": "500"
+        }
+    ]
+}

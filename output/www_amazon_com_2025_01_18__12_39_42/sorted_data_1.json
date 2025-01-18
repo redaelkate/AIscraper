@@ -1,0 +1,48 @@
+{
+    "listings": [
+        {
+            "name": "ASUS The SFF-Ready Prime GeForce RTX 4070 Super OC Edition 12GB GDDR6X Graphics Card (PCIe\u00ae 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort\u2122 1.4a)",
+            "price": "$638.99"
+        },
+        {
+            "name": "maxsun AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming Video Graphics Card GPU 128-Bit DirectX 12 PCI Express X16 3.0 DVI-D Dual Link, HDMI, DisplayPort",
+            "price": "$83.99"
+        },
+        {
+            "name": "MSI Gaming GeForce RTX 3060 12GB 15 Gbps GDRR6 192-Bit HDMI/DP PCIe 4 Torx Twin Fan Ampere OC Graphics Card",
+            "price": "$318.70"
+        },
+        {
+            "name": "GIGABYTE GeForce RTX 3060 Gaming OC 12G (REV2.0) Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6, GV-N3060GAMING OC-12GD Video Card",
+            "price": "$294.99"
+        },
+        {
+            "name": "The SFF-ready ASUS Dual GeForce RTX\u2122 4070 EVO OC Edition 12GB GDDR6 (PCIe 4.0, 12GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech fan design, 0dB technology)",
+            "price": "$569.99"
+        },
+        {
+            "name": "ASUS The SFF-Ready Prime GeForce RTX\u2122 4070 Ti Super OC Edition 16GB GDDR6X Graphics Card (PCIe\u00ae 4.0, 16GB GDDR6X, DLSS 3, HDMI 2.1a, DisplayPort\u2122 1.4a)",
+            "price": "$839.99"
+        },
+        {
+            "name": "GIGABYTE Radeon RX 7600 XT Gaming OC 16G Graphics Card, 3X WINDFORCE Fans 16GB 128-bit GDDR6, GV-R76XTGAMING OC-16GD Video Card",
+            "price": "$314.99"
+        },
+        {
+            "name": "XFX Speedster QICK319 Radeon RX 6750XT CORE Gaming Graphics Card with 12GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-675XYJFDP",
+            "price": "$339.15"
+        },
+        {
+            "name": "GIGABYTE 2GB RAM DDR3 SDRAM Video Graphics Cards GV-N710D3-2GL REV2.0",
+            "price": "$42.99"
+        },
+        {
+            "name": "Sparkle Intel Arc B570 Guardian OC Graphics Card, 10GB GDDR6, Torn Cooling 2.0, Axial Fan, Breathing Light, Metal Backplate, SB570G-10GOC",
+            "price": "$229.99"
+        },
+        {
+            "name": "XFX Radeon RX 580 GTS XXX Edition 1386MHz OC+, 8GB GDDR5, VR Ready, Dual BIOS, 3xDP HDMI DVI, AMD Graphics Card (RX-580P8DFD6)",
+            "price": "$129.99"
+        }
+    ]
+}
