@@ -1,6 +1,6 @@
-# ScrapeMaster
+# AIscraper
 
-ScrapeMaster is a Streamlit-based web scraping application designed to simplify the process of extracting data from web pages. It allows users to specify URLs and data fields interactively, facilitating the extraction and manipulation of web data.
+AI scraper is a Streamlit-based web scraping application designed to simplify the process of extracting data from web pages. It allows users to specify URLs and data fields interactively, facilitating the extraction and manipulation of web data.
 
 ## Features
 
@@ -23,7 +23,7 @@ Follow these steps to get your development environment running:
 
 ```bash
 # Clone the repository
-git clone https://github.com/reda-marzouk608/scrape-master
+git clone https://github.com/redaelkate/AIscraper
 cd scrape-master
 
 # It's recommended to create a virtual environment
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## Launching the Application
 
-To run ScrapeMaster, navigate to the project directory and run the following command:
+To run AIscraper, navigate to the project directory and run the following command:
 
 ```bash
 streamlit run streamlit_app.py
