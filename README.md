@@ -25,7 +25,7 @@ Follow these steps to get your development environment running:
 ```bash
 # Clone the repository
 git clone https://github.com/redaelkate/AIscraper
-cd scrape-master
+cd AIscraper
 
 # It's recommended to create a virtual environment
 python -m venv venv
