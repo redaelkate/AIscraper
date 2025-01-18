@@ -10,7 +10,7 @@ AI scraper is a Streamlit-based web scraping application designed to simplify th
 - Dynamic data processing with Python and Streamlit.
 - Direct download capabilities for extracted data in various formats.
 - Attended mode.
-- AI-powered data extraction using models like OpenAI GPT, Google Gemini, and Llama.
+- AI-powered data extraction using models like OpenAI GPT, Google Gemini.
 
 ### Prerequisites
 
@@ -77,14 +77,15 @@ After launching the application, open your web browser to the indicated address 
 
 1. Enter the URL of the webpage you want to scrape.
 2. Specify the fields you want to extract (e.g., `title`, `price`, `description`).
-3. Select the AI model you want to use (e.g., OpenAI GPT, Google Gemini, or Llama).
-4. Click "Scrape" to start the extraction process.
-5. Download the extracted data in JSON or Excel format.
+3. Select the AI model you want to use (e.g., OpenAI GPT, Google Gemini).
+4. Enter your API key
+5. Click "enable scraping" and then "Launch scraper" to start the extraction process.
+6. Download the extracted data in JSON or Excel format.
 
 ### Additional Notes
 
 * **Attended Mode**: Use attended mode for interactive scraping, where you can manually guide the scraper through the process.
 * **Pagination**: The scraper supports pagination, allowing you to scrape multiple pages of data seamlessly.
-* **AI Model Selection**: Choose from supported AI models (OpenAI GPT, Google Gemini, or Llama) based on your requirements and budget.
+* **AI Model Selection**: Choose from supported AI models (OpenAI GPT, Google Gemini) based on your requirements and budget.
 * **Token Management**: The application automatically trims large web pages to fit within the AI model's token limits, ensuring efficient processing.
 * **Cost Calculation**: The app calculates the cost of using the AI model based on the number of tokens processed, helping you manage your AI usage budget.
